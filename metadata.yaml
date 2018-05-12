@@ -1,0 +1,27 @@
+_repo: Lives-of-Illustrious-Shoemakers_40677
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40677-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Winks, W. E. (William Edward)
+    alias: Winks, William Edward
+    birthdate: 1842
+    deathdate: 1926
+    gutenberg_agent_id: '40765'
+    url: http://www.gutenberg.org/2009/agents/40765
+description: ''
+gutenberg_issued: '2012-09-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40677'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shoemakers -- Biography'
+- !lcc 'CT'
+title: Lives of Illustrious Shoemakers
+url: http://www.gutenberg.org/ebooks/40677
